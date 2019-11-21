@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Setup Web"
-date:   2019-03-23 21:03:36 +0530
+title:  "List"
+date:   2018-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+1 Trie for observerss/textfilter
+2 React Native split bundle (framework bundle and buniness bundle)
+3 Web SaaS 
+4 Data Visualization(D3, Canvas)
+5 Microservices
+6 SEO
+
 
 ```javascript
 const Razorpay = require('razorpay');
