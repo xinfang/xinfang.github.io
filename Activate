@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T22:37:03.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.2" etag="jaflYjmKtnX_6gOOM1wL" type="github"><diagram id="z9vHOTXW4TwnaiTEcoRc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T22:50:45.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LScYVyC08f0SyGHIpbAD" version="16.1.2" type="github">
+  <diagram id="z9vHOTXW4TwnaiTEcoRc" name="Page-1">
+    <mxGraphModel dx="815" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="95DGo9mRnoyVilyNaboP-3" value="Feature:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-6" value="Tech:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-7" value="HA 可用性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-9" value="Low latency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-11" value="Simple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-14" value="uniqued" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-15" value="Time limit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-16" value="Non guessable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="155" y="520" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-19" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="155" y="610" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-20" value="RG Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-21" value="Feedback Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-22" value="IV Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-23" value="Gate API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-24" value="Browser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="830" y="540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/qrcode-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="750" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-26" value="ShortUrl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-29" value="QRCode Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-30" value="Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-31" value="Inbound traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="380" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-32" value="outbound traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="420" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
