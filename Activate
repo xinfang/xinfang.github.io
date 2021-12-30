@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T22:50:45.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LScYVyC08f0SyGHIpbAD" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T23:41:25.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XlqxDxkw43QQtDItYbNR" version="16.1.2" type="github">
   <diagram id="z9vHOTXW4TwnaiTEcoRc" name="Page-1">
     <mxGraphModel dx="815" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="95DGo9mRnoyVilyNaboP-23" value="Gate API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="70" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="95DGo9mRnoyVilyNaboP-24" value="Browser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="830" y="540" width="110" height="110" as="geometry" />
+        <mxCell id="95DGo9mRnoyVilyNaboP-24" value="Browser Form" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="805" y="440" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="95DGo9mRnoyVilyNaboP-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/qrcode-128.png" vertex="1" parent="1">
           <mxGeometry x="670" y="560" width="90" height="90" as="geometry" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="95DGo9mRnoyVilyNaboP-32" value="outbound traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="420" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-33" value="Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-34" value="Bandwidth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95DGo9mRnoyVilyNaboP-37" value="CMS Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
