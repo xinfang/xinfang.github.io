@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T15:57:51.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pIPTD2GKpwNTbUvBb8ho" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T16:02:21.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g6mGwWZLXzottbdXPSdo" version="16.1.2" type="github">
   <diagram id="z9vHOTXW4TwnaiTEcoRc" name="Page-1">
-    <mxGraphModel dx="1454" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2304" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
           <mxGeometry x="237.5" y="1820" width="940" height="165" as="geometry" />
         </mxCell>
         <mxCell id="y7NWt310B4AEFZ8dwrsL-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1620/1*JxDFqhb95iPclzr2FJcQAQ.png;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2830" width="1154.85" height="915" as="geometry" />
+          <mxGeometry x="-90" y="2810" width="1154.85" height="915" as="geometry" />
         </mxCell>
         <mxCell id="y7NWt310B4AEFZ8dwrsL-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="y7NWt310B4AEFZ8dwrsL-72">
           <mxGeometry relative="1" as="geometry">
@@ -322,6 +322,9 @@
         </mxCell>
         <mxCell id="y7NWt310B4AEFZ8dwrsL-114" value="Custom Authorizer&#xa;Verify JWT Token and&#xa;oauth scopes" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1280px-Amazon_Lambda_architecture_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="2515" width="57.5" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y7NWt310B4AEFZ8dwrsL-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/practicaldev/image/fetch/s--2cAfcXjI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/clfq9dgqydj3jbznzru5.png;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2910" width="520" height="339" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
